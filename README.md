@@ -2,9 +2,12 @@
 
 <h1 align="center">Hi 👋, I'm Hadil BEN AMOR</h1>
 <h3 align="center">A passionate AI engineer from Tunisia </h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/sZVtHiyzZIsAAAAC/ai-cyborg.gif">
 
 - 🔭 I’m currently working **on my internships**
+
+- 🏆 I'm a GOLD Microsoft learn student Ambassador at Microsoft
+
+- 💪🏼 I was a contributor, speaker and training sessions organizer
 
 - 🌱 I’m currently learning **NLP and OCR**
 
