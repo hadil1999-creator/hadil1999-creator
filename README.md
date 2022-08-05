@@ -1,4 +1,4 @@
-[![MasterHead](https://www.linkedin.com/in/hadil-ben-amor-777a981ba/)]
+[![MasterHead]([https://www.linkedin.com/in/hadil-ben-amor-777a981ba/](https://c.tenor.com/sZVtHiyzZIsAAAAC/ai-cyborg.gif))]
 
 <h1 align="center">Hi 👋, I'm Hadil BEN AMOR</h1>
 <h3 align="center">A passionate AI engineer from Tunisia</h3>
