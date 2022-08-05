@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Hadil BEN AMOR</h1>
 <h3 align="center">A passionate AI engineer from Tunisia </h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/32512/screenshots/4787574/light_ai_design_by_gleb.gif">
 
 - 👨🏻‍🎓 Final year Engineering student at SUP'COM
 
