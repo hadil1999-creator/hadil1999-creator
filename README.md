@@ -1,7 +1,7 @@
-[![MasterHead]([https://www.linkedin.com/in/hadil-ben-amor-777a981ba/](https://c.tenor.com/sZVtHiyzZIsAAAAC/ai-cyborg.gif))]
+
 
 <h1 align="center">Hi 👋, I'm Hadil BEN AMOR</h1>
-<h3 align="center">A passionate AI engineer from Tunisia</h3>
+<h3 align="center">A passionate AI engineer from Tunisia </h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/sZVtHiyzZIsAAAAC/ai-cyborg.gif">
 
 - 🔭 I’m currently working **on my internships**
@@ -12,7 +12,7 @@
 
 - 👨‍💻 My recent projects are available at [https://hadil1999-creator.github.io/Portflio/](https://hadil1999-creator.github.io/Portflio/)
 
-- 💬 Ask me about **MMachine Learning, Deep Learning, Azure Cloud, Data science**
+- 💬 Ask me about **Machine Learning, Deep Learning, Azure Cloud, Data science**
 
 - 📫 How to reach me **benamor.hadil@supcom.tn**
 
