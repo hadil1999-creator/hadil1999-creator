@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Hadil BEN AMOR</h1>
 <h3 align="center">A passionate AI engineer from Tunisia </h3>
 
+- 👨🏻‍🎓 Final year Engineering student at SUP'COM
+
 - 🔭 I’m currently working **on my internships**
 
 - 🏆 I'm a GOLD Microsoft learn student Ambassador at Microsoft
