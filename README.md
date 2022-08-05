@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Hadil BEN AMOR</h1>
 <h3 align="center">A passionate AI engineer from Tunisia</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ITRemFlr5tS39AzQUL/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/sZVtHiyzZIsAAAAC/ai-cyborg.gif">
 
 - 🔭 I’m currently working **on my internships**
 
