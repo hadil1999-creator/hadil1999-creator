@@ -5,7 +5,7 @@
 
 - 👨🏻‍🎓 Final year Engineering student at SUP'COM
 
-- 🔭 I’m currently working **on my internships**
+- 🔭 I’m currently working **on my internship during this summer**
 
 - 🏆 I'm a GOLD Microsoft learn student Ambassador at Microsoft
 
