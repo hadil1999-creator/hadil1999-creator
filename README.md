@@ -2,17 +2,16 @@
 <h1 align="center">Hi 👋, I'm Hadil BEN AMOR</h1>
 <h3 align="center">A passionate AI engineer from Tunisia </h3>
 
-- 👨🏻‍🎓 Final year Engineering student at SUP'COM
+- 👨🏻‍🎓 a soon-to-be graduate engineer from SUP'COM
 
 - 📚 Microsoft Certified x3 in AZURE and AI
 
-- 🔭 I’m currently working **on my internship during this summer**
+- 🔭 I’m currently working **as an automation and NLP intern for my graduation internship**
+- 🔭 I worked as **an AI engineer and a deep learning instructor as part time jobs**
 
 - 🏆 I'm a GOLD Microsoft learn student Ambassador at Microsoft
 
-- 💪🏼 I was a contributor, speaker and training sessions organizer
-
-- 🌱 I’m currently learning **NLP and OCR**
+- 💪🏼 I was a contributor, speaker and +20 training sessions organizer
 
 - 👯 I’m looking to collaborate on **Any suggestion that may boost my career**
 
