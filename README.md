@@ -7,7 +7,9 @@
 - 📚 Microsoft Certified x3 in AZURE and AI
 
 - 🔭 I’m currently working **as a Full Time Engineer**
+  
 - 🔭 I worked **as an automation and NLP intern for my graduation internship**
+  
 - 🔭 I worked as **an AI engineer and a deep learning instructor as part time jobs**
 
 - 🏆 I'm a GOLD Microsoft learn student Ambassador at Microsoft
@@ -15,7 +17,7 @@
 - 💪🏼 I was a contributor, speaker and +20 training sessions organizer
 
 - 👯 I’m looking to collaborate on **Any suggestion that may boost my career**
-- 
+  
 - 💬 Ask me about **Machine Learning, Deep Learning, Azure Cloud, Data science**
 
 - 📫 How to reach me **benamor.hadil@supcom.tn**
