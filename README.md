@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Hadil BEN AMOR</h1>
-<h3 align="center">A passionate AI engineer from Tunisia </h3>
+<h3 align="center">A Passionate AI engineer from Tunisia </h3>
 
-- 👨🏻‍🎓 an AI and Automated Testing engineer from SUP'COM
+- 👨🏻‍🎓 a Telecommunications Engineer graduated from SUP'COM
 
 - 📚 Microsoft Certified x3 in AZURE and AI
 
